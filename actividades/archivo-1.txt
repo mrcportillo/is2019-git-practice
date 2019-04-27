@@ -1,2 +1,4 @@
 1.- Mencione una ventaja de un VCS centralizado.
+test
 2.- Mencione una plataforma VCS centralizado.
+test
