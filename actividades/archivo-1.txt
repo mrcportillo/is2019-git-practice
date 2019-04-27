@@ -1,2 +1,2 @@
-1.-
-2.-
+1.- Mencione una ventaja de un VCS centralizado.
+2.- Mencione una plataforma VCS centralizado vigente.
