@@ -14,6 +14,7 @@ pregunta2:
 ```
 La actividad se considera aprobada una vez que las respuestas del grupo se encuentren en `master`.
 `NOTA: No repetir el enunciado de la pregunta.`
+`NOTA2: Las respuestas van en el archivo donde estan las preguntas.`
 
 ### Archivo por grupo:
 | Equipo | Archivo |
