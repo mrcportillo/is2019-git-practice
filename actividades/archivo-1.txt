@@ -1,2 +1,5 @@
 1.- Mencione una ventaja de un VCS centralizado.
+{Codinamicos}: los administradores tienen el control detallado de qué puede hacer cada colaborador.
+
 2.- Mencione una plataforma VCS centralizado.
+{Codinamicos}: Subversion.
