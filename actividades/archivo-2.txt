@@ -1,2 +1,5 @@
 1.- Mencione una ventaja de un VCS distribuido.
+{Debuggers}: La red no está involucrada en operaciones comunes.
+
 2.- Mencione una plataforma VCS distribuido.
+{Debuggers}: Git
