@@ -1,5 +1,7 @@
 1.- Mencione una ventaja de un VCS distribuido.
 {Debuggers}: La red no está involucrada en operaciones comunes.
+{404}: Controlar el avance del código fuente de diferentes miembros del grupo facilitando el trabajo colaborativo.
 
 2.- Mencione una plataforma VCS distribuido.
 {Debuggers}: Git
+{404}: RCS(Revision Control System)
