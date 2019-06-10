@@ -1,9 +1,13 @@
-﻿1.- Mencione una ventaja de un VCS centralizado.
+
+1.- Mencione una ventaja de un VCS centralizado.
+{Equipo01}: Seguridad
 {Codinamicos}: los administradores tienen el control detallado de qué puede hacer cada colaborador.
 {5-digos}: los cambios realizados deben pasar la aprobacion de algun administrador
 {Codigo Facilito}: no es necesario hacer merges de diferentes versiones del mismo codigo
 
 2.- Mencione una plataforma VCS centralizado.
+{Equipo01}: SubVersion
 {Codinamicos}: Subversion.
 {5-digos}: Perforce
 {Codigo Facilito}: Rational ClearCase
+
