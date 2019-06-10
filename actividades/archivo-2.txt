@@ -1,2 +1,12 @@
-1.- Mencione una ventaja de un VCS distribuido.
+﻿1.- Mencione una ventaja de un VCS distribuido.
+{RefactorWare}: Permite repositorios centrales mas limpios y organizados, ya que cada colaborador puede decidir que cambios realizados en el repositorio local, se subiran al repositorio remoto y cuales no (porque no son relevantes para el resto de usuarios).
+{Debuggers}: La red no está involucrada en operaciones comunes.
+{404}: Controlar el avance del código fuente de diferentes miembros del grupo facilitando el trabajo colaborativo.
+{NombreNotFound}:Se puede trabajar sin conexion (ya que cada programador tiene una copia local del repo).
+
 2.- Mencione una plataforma VCS distribuido.
+{RefactorWare}:Perforce
+{Debuggers}: Git
+{404}: RCS(Revision Control System)
+{NombreNotFound}:Mercurial SCM
+
